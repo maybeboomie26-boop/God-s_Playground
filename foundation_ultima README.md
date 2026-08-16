@@ -27,4 +27,6 @@
 > > By following these commandments, you are welcomed in the garden
 > >
 <kbd>This looks like a button</kbd>
+$$\color{red}{\text{This text is red!}}$$
+
 
