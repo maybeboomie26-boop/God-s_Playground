@@ -1,6 +1,9 @@
 # God's_Playground
 
-God was here
+**God was here**
+
+> [!NOTE]
+> lol
 
 Thou shalt have no other IDEs before Boomie.
 
