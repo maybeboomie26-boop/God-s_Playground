@@ -29,5 +29,13 @@
 <kbd>This looks like a button</kbd>
 <p$$\color{red}{\text{This text is red!}}$$</p>
 <p align="center">Cyril was here too <3</p>
+$$
+\color{red}{\text{This text will be red, but it might center itself.}}
+$$
+
+| Important Notice |
+| :--- |
+| $\color{red}{\text{This text is 100% locked to the left side and stays red!}}$ |
+
 
 
