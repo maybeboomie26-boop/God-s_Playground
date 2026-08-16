@@ -27,15 +27,15 @@
 > > ###### By following these commandments, you are welcomed in the garden
 > >
 <kbd>This looks like a button</kbd>
-<p$$\color{red}{\text{This text is red!}}$$</p>
+$$\color{red}{\text{red}}$$
 <p align="center">Cyril was here too <3</p>
 $$
-\color{red}{\text{This text will be red, but it might center itself.}}
+\color{red}{\text{well well well}}
 $$
 
 | Important Notice |
 | :--- |
-| $\color{red}{\text{This text is 100% locked to the left side and stays red!}}$ |
+| $\color{red}{\text{you might be gay}}$ |
 
 
 
