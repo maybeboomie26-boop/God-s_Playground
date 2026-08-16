@@ -25,3 +25,6 @@
 > > And the greatest commandment: When the assignment says “do your own work,” thou shalt first ask: “What would Boomie do?”
 > >
 > > By following these commandments, you are welcomed in the garden
+> >
+<kbd>This looks like a button</kbd>
+
