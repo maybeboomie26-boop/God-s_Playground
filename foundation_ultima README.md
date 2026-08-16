@@ -26,15 +26,45 @@
 > >
 > > ###### By following these commandments, you are welcomed in the garden
 > >
-<kbd>This looks like a button</kbd>
-$$\color{red}{\text{red}}$$
-
-<p align="center">##### Cyril was here too <3</p>
+<kbd>This looks like a fucking chibi button</kbd>
 
 
 | Important Notice |
 | :--- |
 | $\color{red}{\text{you might be gay}}$ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">Cyril was here too <3</p>
 
 
 
