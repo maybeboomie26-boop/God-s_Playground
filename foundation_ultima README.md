@@ -27,6 +27,7 @@
 > > ###### By following these commandments, you are welcomed in the garden
 > >
 <kbd>This looks like a button</kbd>
-$$\color{red}{\text{This text is red!}}$$
+<p$$\color{red}{\text{This text is red!}}$$</p>
+<p align="center">Cyril was here too <3</p>
 
 
