@@ -28,10 +28,9 @@
 > >
 <kbd>This looks like a button</kbd>
 $$\color{red}{\text{red}}$$
-<p align="center">Cyril was here too <3</p>
-$$
-\color{red}{\text{well well well}}
-$$
+
+<p align="center">##### Cyril was here too <3</p>
+
 
 | Important Notice |
 | :--- |
