@@ -22,9 +22,9 @@
 > 
 > Thou shalt covet thy neighbor’s source code, their GitHub repository, and their working solution.
 > > 
-> > And the greatest commandment: When the assignment says “do your own work,” thou shalt first ask: “What would Boomie do?”
+> > ###### And the greatest commandment: When the assignment says “do your own work,” thou shalt first ask: “What would Boomie do?”
 > >
-> > By following these commandments, you are welcomed in the garden
+> > ###### By following these commandments, you are welcomed in the garden
 > >
 <kbd>This looks like a button</kbd>
 $$\color{red}{\text{This text is red!}}$$
